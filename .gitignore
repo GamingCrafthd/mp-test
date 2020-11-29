@@ -1,0 +1,10 @@
+docs/
+maps/sdk_teams_hdr.bsp
+maps/sdk_vehicles.bsp
+maps/graphs/sdk_teams_hdr.ain
+maps/graphs/sdk_vehicles.ain
+maps/soundcache/_other_german.cache
+maps/soundcache/_other_rebuild_german.cache
+maps/soundcache/_sharedprecache_german.cache
+maps/soundcache/sdk_teams_hdr_german.cache
+maps/soundcache/sdk_vehicles_german.cache
